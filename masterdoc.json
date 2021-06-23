@@ -1,0 +1,15 @@
+[ {
+  "Name": "Module 2: Devices and Device Communication",
+  "Language": "English",
+  "BaseURL": "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_03-set-up-the-development-environment.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_04-connect-iot-device-to-azure.md",
+      "Order": 2
+    }
+  ]
+}]
